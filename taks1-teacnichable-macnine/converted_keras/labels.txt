@@ -1,0 +1,3 @@
+0 Sapi
+1 Domba
+2 Kuda
